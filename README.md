@@ -8,5 +8,7 @@ https://yatin-pandit94.medium.com/
 https://www.linkedin.com/in/yatin-pandit/
 
 
-# Please Feel free to push code with different languages for different Algorithms. You can push to the branch with name of algorithm ( _ seperated )
+
+Please Feel free to push code with different languages for different Algorithms. You can push to the branch with name of algorithm ( _ seperated )
+
 
